@@ -7,7 +7,7 @@ a{
 	text-decoration:none;
 }
 #titlediv{
-	background-image: url(lvbiaoti.png);
+	background-image: url(../images/lvbiaoti.png);
 	background-repeat: no-repeat;
 	background-position: 30px 10px;
 	width: 183px;
@@ -26,7 +26,7 @@ ul li{
 	height: 30px;
 	padding-top: 18px;
 	padding-left:20px;
-	background-image: url(baibiaoti.png);
+	background-image: url(../images/baibiaoti.png);
 	background-position: 30px 10px;
 	background-repeat: no-repeat;
 	text-align: center;
@@ -36,7 +36,7 @@ ul li{
 	height: 35px;
 }
 #first{
-	background-image:url(bj.png);
+	background-image:url(../images/bj.png);
 	background-repeat: no-repeat;
 	height:380px;
 }
